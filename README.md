@@ -12,15 +12,16 @@ Types of User :  Admin, Manager, Organizer, Donor.
 
 📷 Some screenshots of the project is given below :  
 
-<img src="./file/1.jpg" width="500" height="" alt="">
-<img src="./file/2.jpg" width="500" height="" alt="">
-<img src="./file/3.jpg" width="500" height="" alt="">
-<img src="./file/4.jpg" width="500" height="" alt="">
-<img src="./file/5.jpg" width="500" height="" alt="">
-<img src="./file/6.jpg" width="500" height="" alt="">
-<img src="./file/7.jpg" width="500" height="" alt="">
-<img src="./file/8.jpg" width="500" height="" alt="">
-
+<center>
+    <img src="./file/1.jpg" width="700" height="" alt="">
+    <img src="./file/2.jpg" width="700" height="" alt="">
+    <img src="./file/3.jpg" width="700" height="" alt="">
+    <img src="./file/4.jpg" width="700" height="" alt="">
+    <img src="./file/5.jpg" width="700" height="" alt="">
+    <img src="./file/6.jpg" width="700" height="" alt="">
+    <img src="./file/7.jpg" width="700" height="" alt="">
+    <img src="./file/8.jpg" width="700" height="" alt="">
+</center>
 
 
 
